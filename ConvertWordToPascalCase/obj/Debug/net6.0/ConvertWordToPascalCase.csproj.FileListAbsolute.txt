@@ -1,0 +1,15 @@
+C:\Users\SUKHT\Desktop\vscode projects\Extra Exercises\ConvertWordToPascalCase\bin\Debug\net6.0\ConvertWordToPascalCase.exe
+C:\Users\SUKHT\Desktop\vscode projects\Extra Exercises\ConvertWordToPascalCase\bin\Debug\net6.0\ConvertWordToPascalCase.deps.json
+C:\Users\SUKHT\Desktop\vscode projects\Extra Exercises\ConvertWordToPascalCase\bin\Debug\net6.0\ConvertWordToPascalCase.runtimeconfig.json
+C:\Users\SUKHT\Desktop\vscode projects\Extra Exercises\ConvertWordToPascalCase\bin\Debug\net6.0\ConvertWordToPascalCase.dll
+C:\Users\SUKHT\Desktop\vscode projects\Extra Exercises\ConvertWordToPascalCase\bin\Debug\net6.0\ref\ConvertWordToPascalCase.dll
+C:\Users\SUKHT\Desktop\vscode projects\Extra Exercises\ConvertWordToPascalCase\bin\Debug\net6.0\ConvertWordToPascalCase.pdb
+C:\Users\SUKHT\Desktop\vscode projects\Extra Exercises\ConvertWordToPascalCase\obj\Debug\net6.0\ConvertWordToPascalCase.csproj.AssemblyReference.cache
+C:\Users\SUKHT\Desktop\vscode projects\Extra Exercises\ConvertWordToPascalCase\obj\Debug\net6.0\ConvertWordToPascalCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUKHT\Desktop\vscode projects\Extra Exercises\ConvertWordToPascalCase\obj\Debug\net6.0\ConvertWordToPascalCase.AssemblyInfoInputs.cache
+C:\Users\SUKHT\Desktop\vscode projects\Extra Exercises\ConvertWordToPascalCase\obj\Debug\net6.0\ConvertWordToPascalCase.AssemblyInfo.cs
+C:\Users\SUKHT\Desktop\vscode projects\Extra Exercises\ConvertWordToPascalCase\obj\Debug\net6.0\ConvertWordToPascalCase.csproj.CoreCompileInputs.cache
+C:\Users\SUKHT\Desktop\vscode projects\Extra Exercises\ConvertWordToPascalCase\obj\Debug\net6.0\ConvertWordToPascalCase.dll
+C:\Users\SUKHT\Desktop\vscode projects\Extra Exercises\ConvertWordToPascalCase\obj\Debug\net6.0\ref\ConvertWordToPascalCase.dll
+C:\Users\SUKHT\Desktop\vscode projects\Extra Exercises\ConvertWordToPascalCase\obj\Debug\net6.0\ConvertWordToPascalCase.pdb
+C:\Users\SUKHT\Desktop\vscode projects\Extra Exercises\ConvertWordToPascalCase\obj\Debug\net6.0\ConvertWordToPascalCase.genruntimeconfig.cache
