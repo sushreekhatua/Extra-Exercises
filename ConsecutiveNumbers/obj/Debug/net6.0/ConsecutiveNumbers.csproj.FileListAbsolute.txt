@@ -1,0 +1,15 @@
+C:\Users\SUKHT\Desktop\vscode projects\Extra Exercises\ConsecutiveNumbers\bin\Debug\net6.0\ConsecutiveNumbers.exe
+C:\Users\SUKHT\Desktop\vscode projects\Extra Exercises\ConsecutiveNumbers\bin\Debug\net6.0\ConsecutiveNumbers.deps.json
+C:\Users\SUKHT\Desktop\vscode projects\Extra Exercises\ConsecutiveNumbers\bin\Debug\net6.0\ConsecutiveNumbers.runtimeconfig.json
+C:\Users\SUKHT\Desktop\vscode projects\Extra Exercises\ConsecutiveNumbers\bin\Debug\net6.0\ConsecutiveNumbers.dll
+C:\Users\SUKHT\Desktop\vscode projects\Extra Exercises\ConsecutiveNumbers\bin\Debug\net6.0\ref\ConsecutiveNumbers.dll
+C:\Users\SUKHT\Desktop\vscode projects\Extra Exercises\ConsecutiveNumbers\bin\Debug\net6.0\ConsecutiveNumbers.pdb
+C:\Users\SUKHT\Desktop\vscode projects\Extra Exercises\ConsecutiveNumbers\obj\Debug\net6.0\ConsecutiveNumbers.csproj.AssemblyReference.cache
+C:\Users\SUKHT\Desktop\vscode projects\Extra Exercises\ConsecutiveNumbers\obj\Debug\net6.0\ConsecutiveNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUKHT\Desktop\vscode projects\Extra Exercises\ConsecutiveNumbers\obj\Debug\net6.0\ConsecutiveNumbers.AssemblyInfoInputs.cache
+C:\Users\SUKHT\Desktop\vscode projects\Extra Exercises\ConsecutiveNumbers\obj\Debug\net6.0\ConsecutiveNumbers.AssemblyInfo.cs
+C:\Users\SUKHT\Desktop\vscode projects\Extra Exercises\ConsecutiveNumbers\obj\Debug\net6.0\ConsecutiveNumbers.csproj.CoreCompileInputs.cache
+C:\Users\SUKHT\Desktop\vscode projects\Extra Exercises\ConsecutiveNumbers\obj\Debug\net6.0\ConsecutiveNumbers.dll
+C:\Users\SUKHT\Desktop\vscode projects\Extra Exercises\ConsecutiveNumbers\obj\Debug\net6.0\ref\ConsecutiveNumbers.dll
+C:\Users\SUKHT\Desktop\vscode projects\Extra Exercises\ConsecutiveNumbers\obj\Debug\net6.0\ConsecutiveNumbers.pdb
+C:\Users\SUKHT\Desktop\vscode projects\Extra Exercises\ConsecutiveNumbers\obj\Debug\net6.0\ConsecutiveNumbers.genruntimeconfig.cache
